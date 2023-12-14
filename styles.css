@@ -1,0 +1,1271 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightgoldenrodyellow;
+}
+
+
+
+audio {
+    display: none;
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#descriptions {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(50%, 50%);
+}
+
+
+
+
+
+#first {
+    font-size: 5em;
+    font-family: serif;
+    color: darkgrey;
+    text-align: center;
+    animation: animate1 187s linear infinite;
+}
+
+
+
+@keyframes animate1 {
+    0% {
+        opacity: 1;
+    }
+
+    5% {
+        opacity: 0;
+    }
+
+
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+#second {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate2 187s linear infinite;
+}
+
+@keyframes animate2 {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+    }
+
+    6% {
+        opacity: 1;
+    }
+
+    10% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#third {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate3 187s linear infinite;
+}
+
+@keyframes animate3 {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0;
+    }
+
+    11% {
+        opacity: 1;
+    }
+
+    15% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#fourth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate4 187s linear infinite;
+}
+
+@keyframes animate4 {
+    0% {
+        opacity: 0;
+    }
+
+    15% {
+        opacity: 0;
+    }
+
+    16% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#fifth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate5 187s linear infinite;
+}
+
+@keyframes animate5 {
+    0% {
+        opacity: 0;
+    }
+
+    20% {
+        opacity: 0;
+    }
+
+    21% {
+        opacity: 1;
+    }
+
+    25% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#sixth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate6 187s linear infinite;
+}
+
+@keyframes animate6 {
+    0% {
+        opacity: 0;
+    }
+
+    25% {
+        opacity: 0;
+    }
+
+    26% {
+        opacity: 1;
+    }
+
+    30% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#seventh {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate7 187s linear infinite;
+}
+
+@keyframes animate7 {
+    0% {
+        opacity: 0;
+    }
+
+    30% {
+        opacity: 0;
+    }
+
+    31% {
+        opacity: 1;
+    }
+
+    35% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#eighth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate8 187s linear infinite;
+}
+
+@keyframes animate8 {
+    0% {
+        opacity: 0;
+    }
+
+    35% {
+        opacity: 0;
+    }
+
+    36% {
+        opacity: 1;
+    }
+
+    40% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#ninth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate9 187s linear infinite;
+}
+
+@keyframes animate9 {
+    0% {
+        opacity: 0;
+    }
+
+    40% {
+        opacity: 0;
+    }
+
+    41% {
+        opacity: 1;
+    }
+
+    45% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#tenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate10 187s linear infinite;
+}
+
+@keyframes animate10 {
+    0% {
+        opacity: 0;
+    }
+
+    45% {
+        opacity: 0;
+    }
+
+    46% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#eleventh {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate11 187s linear infinite;
+}
+
+@keyframes animate11 {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    51% {
+        opacity: 1;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#twelth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate12 187s linear infinite;
+}
+
+@keyframes animate12 {
+    0% {
+        opacity: 0;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    56% {
+        opacity: 1;
+    }
+
+    60% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#thirteenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate13 187s linear infinite;
+}
+
+@keyframes animate13 {
+    0% {
+        opacity: 0;
+    }
+
+    60% {
+        opacity: 0;
+    }
+
+    61% {
+        opacity: 1;
+    }
+
+    65% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#fourteenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate14 187s linear infinite;
+}
+
+@keyframes animate14 {
+    0% {
+        opacity: 0;
+    }
+
+    65% {
+        opacity: 0;
+    }
+
+    66% {
+        opacity: 1;
+    }
+
+    70% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#fifteenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate15 187s linear infinite;
+}
+
+@keyframes animate15 {
+    0% {
+        opacity: 0;
+    }
+
+    70% {
+        opacity: 0;
+    }
+
+    71% {
+        opacity: 1;
+    }
+
+    75% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#sixteenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate16 187s linear infinite;
+}
+
+@keyframes animate16 {
+    0% {
+        opacity: 0;
+    }
+
+    75% {
+        opacity: 0;
+    }
+
+    76% {
+        opacity: 1;
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#seventeenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate17 187s linear infinite;
+}
+
+@keyframes animate17 {
+    0% {
+        opacity: 0;
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    81% {
+        opacity: 1;
+    }
+
+    85% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#eighteenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate18 187s linear infinite;
+}
+
+@keyframes animate18 {
+    0% {
+        opacity: 0;
+    }
+
+    85% {
+        opacity: 0;
+    }
+
+    86% {
+        opacity: 1;
+    }
+
+    90% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#ninteenth {
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    animation: animate19 187s linear infinite;
+}
+
+@keyframes animate19 {
+    0% {
+        opacity: 0;
+    }
+
+    90% {
+        opacity: 0;
+    }
+
+    91% {
+        opacity: 1;
+    }
+
+    95% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#twenty {
+    font-size: 8em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate20 187s linear infinite;
+}
+
+@keyframes animate20 {
+    0% {
+        opacity: 0;
+    }
+
+    95% {
+        opacity: 0;
+    }
+
+    96% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+
+
+
+
+
+
+
+#des1 {
+    font-size: 2em;
+    font-family: serif;
+    color: darkgrey;
+    text-align: center;
+    animation: animate21 187s linear infinite;
+}
+
+@keyframes animate21 {
+    0% {
+        opacity: 1;
+    }
+
+    5% {
+        opacity: 0;
+    }
+
+
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+#des2 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate22 187s linear infinite;
+}
+
+@keyframes animate22 {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+    }
+
+    6% {
+        opacity: 1;
+    }
+
+    10% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des3 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate23 187s linear infinite;
+}
+
+@keyframes animate23 {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0;
+    }
+
+    11% {
+        opacity: 1;
+    }
+
+    15% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des4 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate24 187s linear infinite;
+}
+
+@keyframes animate24 {
+    0% {
+        opacity: 0;
+    }
+
+    15% {
+        opacity: 0;
+    }
+
+    16% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des5 {
+    width: 800px;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate25 187s linear infinite;
+}
+
+@keyframes animate25 {
+    0% {
+        opacity: 0;
+    }
+
+    20% {
+        opacity: 0;
+    }
+
+    21% {
+        opacity: 1;
+    }
+
+    25% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des6 {
+    width: 800px;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate26 187s linear infinite;
+}
+
+@keyframes animate26 {
+    0% {
+        opacity: 0;
+    }
+
+    25% {
+        opacity: 0;
+    }
+
+    26% {
+        opacity: 1;
+    }
+
+    30% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des7 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate27 187s linear infinite;
+}
+
+@keyframes animate27 {
+    0% {
+        opacity: 0;
+    }
+
+    30% {
+        opacity: 0;
+    }
+
+    31% {
+        opacity: 1;
+    }
+
+    35% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des8 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate28 187s linear infinite;
+}
+
+@keyframes animate28 {
+    0% {
+        opacity: 0;
+    }
+
+    35% {
+        opacity: 0;
+    }
+
+    36% {
+        opacity: 1;
+    }
+
+    40% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des9 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate29 187s linear infinite;
+}
+
+@keyframes animate29 {
+    0% {
+        opacity: 0;
+    }
+
+    40% {
+        opacity: 0;
+    }
+
+    41% {
+        opacity: 1;
+    }
+
+    45% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des10 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate30 187s linear infinite;
+}
+
+@keyframes animate30 {
+    0% {
+        opacity: 0;
+    }
+
+    45% {
+        opacity: 0;
+    }
+
+    46% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des11 {
+    width: 600px;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate31 187s linear infinite;
+}
+
+@keyframes animate31 {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    51% {
+        opacity: 1;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des12 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate32 187s linear infinite;
+}
+
+@keyframes animate32 {
+    0% {
+        opacity: 0;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    56% {
+        opacity: 1;
+    }
+
+    60% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des13 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate33 187s linear infinite;
+}
+
+@keyframes animate33 {
+    0% {
+        opacity: 0;
+    }
+
+    60% {
+        opacity: 0;
+    }
+
+    61% {
+        opacity: 1;
+    }
+
+    65% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des14 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate34 187s linear infinite;
+}
+
+@keyframes animate34 {
+    0% {
+        opacity: 0;
+    }
+
+    65% {
+        opacity: 0;
+    }
+
+    66% {
+        opacity: 1;
+    }
+
+    70% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des15 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate35 187s linear infinite;
+}
+
+@keyframes animate35 {
+    0% {
+        opacity: 0;
+    }
+
+    70% {
+        opacity: 0;
+    }
+
+    71% {
+        opacity: 1;
+    }
+
+    75% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des16 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate16 187s linear infinite;
+}
+
+@keyframes animate16 {
+    0% {
+        opacity: 0;
+    }
+
+    75% {
+        opacity: 0;
+    }
+
+    76% {
+        opacity: 1;
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des17 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate37 187s linear infinite;
+}
+
+@keyframes animate37 {
+    0% {
+        opacity: 0;
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    81% {
+        opacity: 1;
+    }
+
+    85% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des18 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate38 187s linear infinite;
+}
+
+@keyframes animate38 {
+    0% {
+        opacity: 0;
+    }
+
+    85% {
+        opacity: 0;
+    }
+
+    86% {
+        opacity: 1;
+    }
+
+    90% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des19 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate39 187s linear infinite;
+}
+
+@keyframes animate39 {
+    0% {
+        opacity: 0;
+    }
+
+    90% {
+        opacity: 0;
+    }
+
+    91% {
+        opacity: 1;
+    }
+
+    95% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+#des20 {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    text-align: center;
+    animation: animate40 187s linear infinite;
+}
+
+@keyframes animate40 {
+    0% {
+        opacity: 0;
+    }
+
+    95% {
+        opacity: 0;
+    }
+
+    96% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
